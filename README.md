@@ -5,24 +5,24 @@ Project Title Simple Grade Calculator
 This is a simple Python program that helps manage and display a person's budget.
 
 #Features:
-Enter the person's weekly budget.
-Enter the person's used money that day. 
-Subtract the person's used money from their initial weekly budget.
-Store the 
-Handles invalid input (e.g. letters instead of numbers)
-Rounds grade to two decimal places
+Let's you enter the person's original weekly budget.
+Has a table with different categories for expenses.
+Let's you enter each weekly budget for each category.
+Let's you enter the amount of money the person used that day for each specific category. 
+It subtracts the person's used cash for each category from the initial weekly budget that was spent.
+Stores the difference as the new initial budget for the specific category.
+It subtracts the person's new initial budget from the original weekly budget.
+Stores the difference as the new original weekly budget.
 
 #How to Run the Program
 
 1. Make sure you have Python installed.
-
-2. Download the file grade_calculator.py".
-
-3. Open a terminal or command prompt.
-
-4. Run the program by pressing F5 or clicking "Run"
-
-5. Follow the on-screen instructions to enter student names and grades.
+2. Run the code.
+3. Enter your original weekly budget.
+4. Enter the different categories you want to have for your budget tracker.
+5. Enter the initial budget for each category you have.
+6. Enter your used money for the specific category that you spent on for the day.
+7. Follow the on-screen instructions to enter the original weekly budget, initial category budget, and your used money for the day.
 
 Example Output
 
