@@ -1,0 +1,22 @@
+Project Proposal
+Title: Budget Tracker
+Prepared for:
+Dachel Raagas
+
+Prepared by:
+Daria Naisy Bel A. 8-Camia 
+Celajes Aliyah Mae P. Celajes 8-Camia
+
+Problem Statement:
+I often find it hard to keep track of my income and expenses.
+Writing them down or using notes can be messy and confusing, which sometimes leads me to overspend without realizing it. 
+To solve this, I want to create a Budget Tracker program in Python that will help me record my income and expenses, categorize them, and see a clear summary of my balance. 
+aThis way, I can manage my money better and become more aware of my spending habits.
+
+Description:
+We will design our program in an organized manner like categorizing our expenses (eg. Food and transportation) and show how much we spent. 
+The program will allow the user to easily edit it to input their expenses and money to keep the tracker updated. 
+We will make sure it is accurate and has no mistakes like data loss, user errors, scalability issues, and usability problems.
+We will have data validation features that allows only numerical inputs for the money and that it does not exceed the set budget.
+
+
