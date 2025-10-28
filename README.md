@@ -1,7 +1,6 @@
-Project Title Simple Grade Calculator
+Project Title: Budget Tracker
 
 #Project Description
-
 This is a simple Python program that helps manage and display a person's budget.
 
 #Features:
