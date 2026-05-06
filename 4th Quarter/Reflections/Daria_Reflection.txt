@@ -1,0 +1,10 @@
+﻿This project helped me understand how a simple budget tracking system can be developed using both console-based Python and a graphical user interface (Tkinter). At first, the program was built using basic input and print statements, which made it easier to focus on logic such as loops, validation, and calculating totals. Later, I improved it by converting it into a GUI, which made the program more interactive and user-friendly.
+
+
+One of the main challenges was handling user input properly, especially ensuring that all values are valid numbers and preventing errors like negative inputs. I solved this by using float() conversion and validation functions. Another challenge was managing data across multiple days, which required careful use of lists and dictionaries like weekly_data and used_days.
+
+
+The Tkinter version improved the user experience by allowing button-based navigation instead of typing everything in the console. However, it also introduced complexity in managing frames and widget updates.
+
+
+Overall, this project improved my understanding of program structure, user input validation, and GUI development. It also showed me how important it is to balance functionality, usability, and simplicity when designing software.
