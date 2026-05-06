@@ -1,0 +1,9 @@
+This project helped me understand how to build a full working application, not just write separate pieces of code. I learned how important it is to manage program state, since variables like the budget, expenses, and selected day need to be remembered across different screens.
+
+I also learned how to use file saving with JSON, which allowed the app to store data and load it again even after closing. This made the program feel more real and practical.
+
+Another thing I learned was how screen navigation works in Tkinter, where each part of the app is built as a different function and the interface is updated by clearing and rebuilding frames.
+
+I improved my understanding of input validation, making sure users don’t enter invalid or negative values, and I learned how to handle errors properly so the program doesn’t crash.
+
+Overall, this project taught me how different parts of a program data, logic, and interface, must work together to create a complete and functional system.
